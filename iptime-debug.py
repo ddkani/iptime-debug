@@ -4,6 +4,7 @@ import sys
 pass_old = '#notenoughmineral^'
 pass_new = '!@dnjsrurelqjrm*&'
 
+## file changed!
 userid = ''
 userpw = ''
 
